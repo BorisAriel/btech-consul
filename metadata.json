@@ -1,0 +1,6 @@
+{
+  "name": "KORA Études — Simulateur d'Études de Marché UEMOA",
+  "description": "Cabinet autonome d'études de marché et simulateur stratégique piloté par six agents métiers spécialisés sur les huit pays de la zone UEMOA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
